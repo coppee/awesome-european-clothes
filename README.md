@@ -18,6 +18,9 @@ Awesome European clothes
 #### Women/Men
 - https://abbieandrose.com (made in Turquie)
 
+#### Women
+- https://www.faconjacmin.com
+
 #### Kids
 - https://www.littlepanama.be/
 
@@ -28,3 +31,5 @@ Awesome European clothes
 - http://www.lunetierludovic.be
 - https://shop.niyona.be
 - https://www.bertelles.com
+- https://www.geraldinebertrand.com
+- https://www.ateliercontent.com \#shoes
