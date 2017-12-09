@@ -6,5 +6,5 @@ Awesome European clothes
 - https://bravafabrics.com
 
 ### France
-- http://www.sixpack.fr/ (made in Portugal)
+- http://www.sixpack.fr (made in Portugal)
 - https://www.leslipfrancais.fr
