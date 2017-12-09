@@ -7,3 +7,4 @@ Awesome European clothes
 
 ### France
 - http://www.sixpack.fr/ (made in Portugal)
+- https://www.leslipfrancais.fr
