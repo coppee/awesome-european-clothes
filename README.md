@@ -2,12 +2,12 @@
 Awesome European clothes
 
 ### // Spain 
-#### Women/Men
+#### Wo/Men
 - https://twothirds.com (made in Portugal)
 - https://bravafabrics.com
 
 ### // France
-#### Women/Men
+#### Wo/Men
 - http://www.sixpack.fr (made in Portugal)
 - https://www.leslipfrancais.fr
 - https://www.bleuforet.fr
@@ -15,14 +15,18 @@ Awesome European clothes
 
 ### // Belgium
 
-#### Women/Men
+#### Wo/Men
 - https://abbieandrose.com (made in Turquie)
+- https://www.wearastory.be
+
+#### Men 
+- https://fr.escuyer.com/
 
 #### Women
 - https://www.faconjacmin.com
 
 #### Kids
-- https://www.littlepanama.be/
+- https://www.littlepanama.be
 
 #### Accessories
 - https://edmunds.be
