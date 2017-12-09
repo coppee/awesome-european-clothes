@@ -17,3 +17,5 @@ Awesome European clothes
 - https://edmunds.be
 - https://kotton.be
 - http://shop.oleary.be
+- http://www.lunetierludovic.be
+- https://shop.niyona.be
