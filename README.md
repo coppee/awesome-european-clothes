@@ -12,6 +12,24 @@ Awesome European clothes
 - https://www.leslipfrancais.fr
 - https://www.bleuforet.fr
 - https://www.ateliertuffery.com
+- https://www.eshop.vetra.fr/fr/
+
+### // Germany
+#### Wo/Men
+- https://akindofguise.com
+
+### // Sweden
+#### Wo/Men
+- https://schnaydermans.com/
+- https://stutterheim.com/eu
+
+### // Italy
+#### Wo/Men
+- http://www.aspesi.com/en/
+
+### // Netherlands
+#### Wo/Men
+- http://webshop.poptradingcompany.com/
 
 ### // Belgium
 
