@@ -16,7 +16,7 @@ Awesome European clothes
 ### // Belgium
 
 #### Wo/Men
-- https://abbieandrose.com (made in Turquie)
+- https://abbieandrose.com \#shirt (made in Turquie)
 
 #### Men 
 - https://fr.escuyer.com/ (made in Portugal) \#tee \#socks
