@@ -17,6 +17,7 @@ Awesome European clothes
 
 #### Wo/Men
 - https://abbieandrose.com \#shirt (made in Turquie)
+- http://howlin.eu
 
 #### Men 
 - https://fr.escuyer.com/ (made in Portugal) \#tee \#socks
@@ -24,6 +25,8 @@ Awesome European clothes
 #### Women
 - https://www.faconjacmin.com
 - https://www.wearastory.be
+- http://www.lesfrileuses.com/shop/fr/
+- https://www.madebyvest.com/
 
 #### Kids
 - https://www.littlepanama.be
@@ -37,3 +40,4 @@ Awesome European clothes
 - https://www.bertelles.com
 - https://www.geraldinebertrand.com
 - https://www.ateliercontent.com \#shoes
+- http://www.munanagatera.com
