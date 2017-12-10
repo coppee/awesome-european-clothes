@@ -1,12 +1,12 @@
 # awesome-european-clothes
 Awesome European clothes
 
-### // Spain 
+### 🇪🇸 Spain 
 #### Wo/Men
 - https://twothirds.com (made in Portugal)
 - https://bravafabrics.com
 
-### // France
+### 🇫🇷 France
 #### Wo/Men
 - http://www.sixpack.fr (made in Portugal)
 - https://www.leslipfrancais.fr
@@ -14,24 +14,24 @@ Awesome European clothes
 - https://www.ateliertuffery.com
 - https://www.eshop.vetra.fr/fr/
 
-### // Germany
+### 🇩🇪 Germany
 #### Wo/Men
 - https://akindofguise.com
 
-### // Sweden
+### 🇸🇪 Sweden
 #### Wo/Men
 - https://schnaydermans.com/
 - https://stutterheim.com/eu
 
-### // Italy
+### 🇮🇹 Italy
 #### Wo/Men
 - http://www.aspesi.com/en/
 
-### // Netherlands
+### 🇳🇱 Netherlands
 #### Wo/Men
 - http://webshop.poptradingcompany.com/
 
-### // Belgium
+### 🇧🇪 Belgium
 
 #### Wo/Men
 - https://abbieandrose.com \#shirt (made in Turquie)
