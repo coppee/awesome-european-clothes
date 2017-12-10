@@ -20,7 +20,7 @@ Awesome European clothes
 - https://www.wearastory.be
 
 #### Men 
-- https://fr.escuyer.com/
+- https://fr.escuyer.com/ (made in Portugal) \#tee \#socks
 
 #### Women
 - https://www.faconjacmin.com
