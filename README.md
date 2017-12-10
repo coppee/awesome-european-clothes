@@ -17,13 +17,13 @@ Awesome European clothes
 
 #### Wo/Men
 - https://abbieandrose.com (made in Turquie)
-- https://www.wearastory.be
 
 #### Men 
 - https://fr.escuyer.com/ (made in Portugal) \#tee \#socks
 
 #### Women
 - https://www.faconjacmin.com
+- https://www.wearastory.be
 
 #### Kids
 - https://www.littlepanama.be
