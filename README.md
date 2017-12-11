@@ -17,6 +17,7 @@ Awesome European clothes
 ### 🇩🇪 Germany
 #### Wo/Men
 - https://akindofguise.com
+- https://www.armedangels.de
 
 ### 🇸🇪 Sweden
 #### Wo/Men
