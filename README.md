@@ -8,7 +8,7 @@ Awesome European clothes
 
 ### 🇫🇷 France
 #### Wo/Men
-- http://www.sixpack.fr (made in Portugal)
+- http://www.sixpack.fr (tee print in EU but made in India)
 - https://www.leslipfrancais.fr
 - https://www.bleuforet.fr
 - https://www.ateliertuffery.com
