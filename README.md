@@ -3,12 +3,12 @@ Awesome European clothes
 
 ### 🇪🇸 Spain 
 #### Wo/Men
-- https://twothirds.com (made in Portugal)
+- https://twothirds.com  (design in Spain & made in Portugal) ```[valided]```
 - https://bravafabrics.com
 
 ### 🇫🇷 France
 #### Wo/Men
-- http://www.sixpack.fr (tee print in EU but made in India)
+- ~~http://www.sixpack.fr~~ (print in EU but made in India) ```[invalided]```
 - https://www.leslipfrancais.fr
 - https://www.bleuforet.fr
 - https://www.ateliertuffery.com
@@ -36,10 +36,10 @@ Awesome European clothes
 
 #### Wo/Men
 - https://abbieandrose.com \#shirt (made in Turquie)
-- http://howlin.eu
+- http://howlin.eu (design & made in Belgium) ```[valided]
 
 #### Men 
-- https://fr.escuyer.com/ (made in Portugal) \#tee \#socks
+- https://fr.escuyer.com/ \#tee \#socks
 - https://www.mcalsonline.com/ \#boxer \#pyjama
 
 #### Women
