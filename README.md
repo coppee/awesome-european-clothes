@@ -10,7 +10,7 @@ Awesome European clothes
 #### Wo/Men
 - ~~http://www.sixpack.fr~~ (print in EU but made in India) ```[invalided]```
 - https://www.leslipfrancais.fr
-- https://www.bleuforet.fr
+- https://www.bleuforet.fr \#socks
 - https://www.ateliertuffery.com
 - https://www.eshop.vetra.fr/fr/
 
