@@ -36,7 +36,7 @@ Awesome European clothes
 
 #### Wo/Men
 - https://abbieandrose.com \#shirt (made in Turquie)
-- http://howlin.eu (design & made in Belgium) ```[valided]
+- http://howlin.eu (design & made in Belgium) ```[valided]```
 
 #### Men 
 - https://fr.escuyer.com/ \#tee \#socks
